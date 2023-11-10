@@ -1,4 +1,8 @@
-<?php
+<html>
+    <head>
+    </head>
+    <body>
+        <?php
             /*
                 All variables in PHP start with a $.
                 Variables are "loosely typed" in PHP.
@@ -20,3 +24,5 @@
             $num1 = "Rick";
             echo "<h2>Hello, my name is $num1</h2>";    
         ?>
+    </body>
+</html>
