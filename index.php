@@ -17,6 +17,6 @@
             echo "<h2>num1 is $num1, num2 is $num2</h2>";
 
             // $num1 reassigned to a string (not a good practice...)
-            $num1 = "Rick 2";
+            $num1 = "Rick 3";
             echo "<h2>Hello, my name is $num1</h2>";    
         ?>
